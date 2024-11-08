@@ -1,21 +1,19 @@
-body {
+body{
     margin: 0;
     padding: 0;
 }
 
-.gallery {
+.galery{
     margin: 20px;
     columns: 4;
     column-gap: 20px;
 }
 
-.gallery img {
+.galery img{
     margin-bottom: 15px;
     width: 100%;
     border-radius: 7px;
     transition: transform 0.3s ease;
-}
-
-.gallery img:hover {
+}.galery img:hover {
     transform: scale(1.01);
 }

@@ -1,9 +1,9 @@
-.container{
+.container {
     display: flex;
     gap: 15px;
 }
 
-.scroll{
+.scroll {
     overflow-x: scroll;
     scrollbar-color: transparent transparent;
 }
